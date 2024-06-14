@@ -1,2 +1,3 @@
-# compiller-design
-csa1471
+# compiler_design
+
+## Practical programs ##
